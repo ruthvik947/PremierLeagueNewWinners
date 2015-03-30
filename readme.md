@@ -1,6 +1,6 @@
 #### Premier League New-Winner Python Script
 
-Python script that scrapes English Premier League match data for two seasons and determines a new winner.
+Python script that scrapes English Premier League match data for two seasons using Beautiful Soup and determines a new winner based on a very simple algorithm (explained below).
 
 Our champion basically becomes the team that beat the reigning champion. For example:
 
