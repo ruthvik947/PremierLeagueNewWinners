@@ -13,5 +13,3 @@ Our champion basically becomes the team that beat the reigning champion. For exa
 > If West Ham remain unbeaten till the end of the season (gameweek 38), they are the eventual champions
 
 > Carry this champion into next season and continue
-
-The whole project doesn't serve any purpose but it was fun to build (and a way to practice my python). I will develop this into something useful in the future! Also, if scraping is illegal, I apologize.
